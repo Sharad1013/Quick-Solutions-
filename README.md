@@ -53,16 +53,17 @@ Installation :
 3. Install dependencies : 
    npm install
 
+CREATE YOUR OWN .env FILE AND MAKE CHANGES IN YOUR CODE AS NEEDED. 
 
 Usage : 
 To start the project, run:
   npm run dev
-
 or open App.jsx directly in your browser
-
 
 Contact
 For any inquiries, please contact Sharad Sinha at sharadsinha@gmail.com.
+
+
 
 
 
