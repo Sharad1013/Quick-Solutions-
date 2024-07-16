@@ -6,41 +6,41 @@ Responsive website for a waterproofing company, showcasing services, projects, a
 
 
 Table of Contents : 
-  Features
-  Technologies Used
-  Installation
-  Usage
-  Screenshots
-  Contributing
-  License
-  Contact
+  Features,
+  Technologies Used,
+  Installation,
+  Usage,
+  Screenshots,
+  Contributing,
+  License,
+  Contact,
 
-Features
-  Service descriptions and details
-  Information of completed projects
-  Contact form
-  Responsive design for all devices
+Features : 
+  Service descriptions and details,
+  Information of completed projects,
+  Contact form,
+  Responsive design for all devices,
 
   
 Frontend technologies Used [
-  react
-  react-dom
-  react-icons
-  react-router-dom
-  react-toastify
+  react,
+  react-dom,
+  react-icons,
+  react-router-dom,
+  react-toastify,
 ]
 
 Backend Technologies Used [
-    Mongo DB
-    Express JS
-    React JS
-    Node JS
-    bcrypt JS
-    cors
-    dotenv
-    jsonwebtoken
-    mongoose
-    zod 
+    Mongo DB,
+    Express JS,
+    React JS,
+    Node JS,
+    bcrypt JS,
+    cors,
+    dotenv,
+    jsonwebtoken,
+    mongoose,
+    zod, 
 ]
 
 Installation : 
