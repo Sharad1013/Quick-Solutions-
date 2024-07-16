@@ -54,6 +54,7 @@ Installation :
    npm install
 
 CREATE YOUR OWN .env FILE AND MAKE CHANGES IN YOUR CODE AS NEEDED. 
+Have Added The File Structure Screenshots in the screenShots Section. Feel Free to Check It Out. 
 
 Usage : 
 To start the project, run:
